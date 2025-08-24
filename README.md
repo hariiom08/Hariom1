@@ -1,13 +1,20 @@
 # Hariom1
 First repository on Git.
-<br>clea
+<br>
 Creator- Hariom Mandloi
-
+<br>
 #include<iostream>
+<br>
 using namespace std;
-int main(){
+<br>
+int main()
+<br>
+{
+<br>
 cout<<"Hello Github this is my first repo";
+<br>
 return 0;
+<br>
 }
 
 
